@@ -1,0 +1,17 @@
+D:\Duo Projects\Version 5.1\TestProjects\Ards v6 Tester\Ards v6 Tester\bin\Debug\Ards v6 Tester.exe.config
+D:\Duo Projects\Version 5.1\TestProjects\Ards v6 Tester\Ards v6 Tester\bin\Debug\Ards v6 Tester.exe
+D:\Duo Projects\Version 5.1\TestProjects\Ards v6 Tester\Ards v6 Tester\bin\Debug\Ards v6 Tester.pdb
+D:\Duo Projects\Version 5.1\TestProjects\Ards v6 Tester\Ards v6 Tester\bin\Debug\Newtonsoft.Json.dll
+D:\Duo Projects\Version 5.1\TestProjects\Ards v6 Tester\Ards v6 Tester\bin\Debug\System.Net.Http.Formatting.dll
+D:\Duo Projects\Version 5.1\TestProjects\Ards v6 Tester\Ards v6 Tester\bin\Debug\System.Web.Http.dll
+D:\Duo Projects\Version 5.1\TestProjects\Ards v6 Tester\Ards v6 Tester\bin\Debug\System.Web.Http.SelfHost.dll
+D:\Duo Projects\Version 5.1\TestProjects\Ards v6 Tester\Ards v6 Tester\bin\Debug\Newtonsoft.Json.xml
+D:\Duo Projects\Version 5.1\TestProjects\Ards v6 Tester\Ards v6 Tester\bin\Debug\System.Net.Http.Formatting.xml
+D:\Duo Projects\Version 5.1\TestProjects\Ards v6 Tester\Ards v6 Tester\bin\Debug\System.Web.Http.xml
+D:\Duo Projects\Version 5.1\TestProjects\Ards v6 Tester\Ards v6 Tester\bin\Debug\System.Web.Http.SelfHost.xml
+D:\Duo Projects\Version 5.1\TestProjects\Ards v6 Tester\Ards v6 Tester\obj\Debug\Ards_v6_Tester.Form1.resources
+D:\Duo Projects\Version 5.1\TestProjects\Ards v6 Tester\Ards v6 Tester\obj\Debug\Ards_v6_Tester.Properties.Resources.resources
+D:\Duo Projects\Version 5.1\TestProjects\Ards v6 Tester\Ards v6 Tester\obj\Debug\Ards v6 Tester.csproj.GenerateResource.Cache
+D:\Duo Projects\Version 5.1\TestProjects\Ards v6 Tester\Ards v6 Tester\obj\Debug\Ards v6 Tester.exe
+D:\Duo Projects\Version 5.1\TestProjects\Ards v6 Tester\Ards v6 Tester\obj\Debug\Ards v6 Tester.pdb
+D:\Duo Projects\Version 5.1\TestProjects\Ards v6 Tester\Ards v6 Tester\obj\Debug\Ards v6 Tester.csprojResolveAssemblyReference.cache
